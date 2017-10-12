@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiApp2</string>
+    <string name="lbl_Name">Ingresar Nombre</string>
+    <string name="lbl_Email">Email</string>
+    <string name="lbl_Telefono">Teléfono</string>
+    <string name="lblMasculino">Masculino</string>
+    <string name="lblFemenino">Femenino</string>
+    <string name="lbl_title_sexo">Sexo</string>
+    <string name="lbl_title">Bienvenido</string>
+
+</resources>
